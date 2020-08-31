@@ -4,7 +4,7 @@ This section introduces the dsl and conf for usage of different type of task.
 
 #### Training Task.
 
-- dsl: test_conf.json
+- dsl: test_dsl.json
 - runtime_config : test_conf.json
  
     
